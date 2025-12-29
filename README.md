@@ -6,6 +6,13 @@ The dashboard provides **team-level, player-level, and match-level insights** wi
 
 ---
 
+## 📸 Dashboard Preview
+
+> <img width="1193" height="698" alt="Screenshot (155)" src="https://github.com/user-attachments/assets/ca858139-b292-43c9-ad18-fa9a273453cf" />
+
+
+---
+
 ## 📊 Dashboard Overview
 
 The dashboard includes the following key sections:
@@ -105,12 +112,7 @@ The dashboard includes the following key sections:
 
 ---
 
-## 📸 Dashboard Preview
 
-> <img width="1193" height="698" alt="Screenshot (155)" src="https://github.com/user-attachments/assets/ca858139-b292-43c9-ad18-fa9a273453cf" />
-
-
----
 
 ## 📌 Future Enhancements
 
